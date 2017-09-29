@@ -8,3 +8,5 @@ change made in github
 both changes kept to resolve conflict
 
 change made in slave2 branch
+
+change made in master branch
