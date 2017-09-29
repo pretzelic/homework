@@ -6,4 +6,8 @@ i'm making a conlflict
 
 test 3
 
+<<<<<<< HEAD
 this is from the master branch
+=======
+this is from the slave branch
+>>>>>>> slave
