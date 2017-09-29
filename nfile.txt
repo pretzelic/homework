@@ -1,3 +1,9 @@
 a new file 
 
+
 made change locally
+
+change made in github
+
+both changes kept to resolve conflict
+
